@@ -1,0 +1,36 @@
+body{
+  height: 80vh;
+  /* background-color: #1e1e1e; */
+  background-image: url(/img/fertilizer4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+main{
+  background-color: aliceblue;
+  border: 1px solid aliceblue;
+  border-radius: 2%;
+  padding: 10%;
+}
+
+.login {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    background-image: url('https://source.unsplash.com/WEQbe2jBg40/600x1200');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
